@@ -4,3 +4,6 @@
 .ipynb_checkpoints
 *.zip
 *.m
+*.pickle
+*.tar.gz
+*.png
